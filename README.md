@@ -1,17 +1,9 @@
 
 # Rush00-Rectangle-Generator
 
-Rush00 is a part of the Hive Helsinki Piscine 2-days long projects (42 school) designed to test your understanding of C programming. The goal of this exercise is to create a function that generates various rectangle shapes based on the dimensions provided as input. 
+Rush00 is a part of the Hive Helsinki Piscine weekend projects designed to test your understanding of C programming. This exercise aims to create a function that generates various rectangle shapes based on the dimensions provided as input. 
 
-## Table of Contents
-- [Files](#files)
-- [Compilation and Usage](#compilation)
-- [Examples](#examples)
-- [Function Descriptions](#function-descriptions)
-- [Contributors](#contributing)
-- [License](#license)
-
-## Files
+## Structure
 
 - **main.c**: The main file to test the `rush` function.
 - **ft_putchar.c**: A utility function used to print a single character to the standard output.
