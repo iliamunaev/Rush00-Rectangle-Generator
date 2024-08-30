@@ -16,7 +16,7 @@ gcc -Wall -Wextra -Werror main.c ft_putchar.c rush04.c -o rush04
 ```
 
 ```bash
-./rush04
+./rush04 (num of coluns) (num of lines) # exp ./rush04 5 3
 ```
 
 ## Examples
