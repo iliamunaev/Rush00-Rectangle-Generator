@@ -14,10 +14,8 @@ Rush00 is a part of the Hive Helsinki Piscine weekend projects designed to test 
 ```bash
 gcc -Wall -Wextra -Werror main.c ft_putchar.c rush04.c -o rush04
 ```
-
-```bash
-./rush04 (num of coluns) (num of lines) # exp ./rush04 5 3
-```
+Change args in main() to display different rectangles:  
+rush(5, 3); rush(10, 10); or rush(1, 0);
 
 ## Examples
 
