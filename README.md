@@ -10,7 +10,9 @@ Rush00 is a part of the Hive Helsinki Piscine weekend projects designed to test 
 - **rush04.c**: Contains the `rush` function that generates the rectangle shapes.
 
 ## Compilation and Usage
-
+```bash
+git clone https://github.com/iliamunaev/Rush00-Rectangle-Generator your_program_name
+```
 ```bash
 gcc -Wall -Wextra -Werror main.c ft_putchar.c rush04.c -o rush04
 ```
